@@ -1,6 +1,7 @@
 # SQL Server / Azure SQL Database Toolkit
 # Notes from the field
 
+Talking about tools:
 - no replacement tool, but complementary tools
 - no reason to ignore a tool
 
