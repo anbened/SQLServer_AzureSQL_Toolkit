@@ -1,9 +1,9 @@
-# H1 SQL Server / Azure SQL Database | Notes from the field
+# SQL Server / Azure SQL Database | Notes from the field
 
 - no replacement tool, but complementary tools
 - no reason to ignore a tool
 
-# H2 SQL Server Management Studio
+## SQL Server Management Studio
   * Windows tool
   * For people who 
     *   spend most of your time on database administration tasks, 
@@ -24,7 +24,7 @@
     *   XEvent Management, 
     *   Always On
 
-# H2 Azure Data Studio 
+## Azure Data Studio 
 (formerly known as SQL Operations Studio)
   * It's the database, not the instance
   * Built on the modern foundation of Microsoft's VS Code (most of the extensibility APIs are available)
@@ -51,7 +51,7 @@
     *   Customizable dashboards, 
     *   Dark Mode
 
-# H2 Visual Studio Code
+## Visual Studio Code
   * SQL Object Explorer
   * SQLCMD
   * IntelliCode
