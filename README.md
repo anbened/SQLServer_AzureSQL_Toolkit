@@ -1,4 +1,5 @@
-# SQL Server / Azure SQL Database | Notes from the field
+# SQL Server / Azure SQL Database Toolkit
+# Notes from the field
 
 - no replacement tool, but complementary tools
 - no reason to ignore a tool
