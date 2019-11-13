@@ -6,7 +6,7 @@
 
 ## SQL Server Management Studio
   * Windows tool
-  * For people who 
+  * For people who: 
     *   spend most of your time on database administration tasks, 
     *   high availability, 
     *   SQL Agent jobs and query store consumer, 
@@ -33,7 +33,7 @@
   * Open source (GitHub project)/ cross-platform tool (platform independent)
   * Primarily development tool
   * Like SSMS, but for developers, less about management, more about code authorship
-  * For people who 
+  * For people who: 
     *   use Mac / Linux as daily workstation, 
     *   don't need to tune queries, 
     *   need to source-control queries, 
