@@ -33,7 +33,8 @@ Talking about the tools:
   * It's the database, not the instance
   * Built on the modern foundation of Microsoft's VS Code (most of the extensibility APIs are available)
   * Engineered with the data platform user in mind
-  * Open source (GitHub project)/ cross-platform tool (platform independent)
+  * Open source (GitHub project)
+  * Cross-platform tool (platform independent)
   * Primarily development tool
   * Like SSMS, but for developers, less about management, more about code authorship
   * For people who: 
