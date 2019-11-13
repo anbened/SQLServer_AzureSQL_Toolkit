@@ -1,7 +1,11 @@
 # SQL Server / Azure SQL Database Toolkit
 # Notes from the field
 
-Talking about tools:
+Sometimes I receive question about the difference between Azure Data Studio (ADS) and SQL Server Management Studio (SSMS)
+
+The purpose of this topic is to enlist some key points to think about your best use case for each tool
+
+Talking about the tools:
 - no replacement tool, but complementary tools
 - no reason to ignore a tool
 
