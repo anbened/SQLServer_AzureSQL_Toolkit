@@ -10,9 +10,9 @@ Talking about the tools:
 ## SQL Server Management Studio
   * Windows tool
   * For people who: 
-    *   spend most of your time on database administration tasks, 
-    *   high availability, 
-    *   SQL Agent jobs and query store consumer, 
+    *   spend most of their time on database administration tasks, 
+    *   need high availability, 
+    *   use SQL Agent jobs and query store consumer, 
     *   are doing import/export of DACPACs, 
     *   need access to Registered Servers and want to control SQL Server services on Windows
   * Integrated with Azure Data Studio (right-click on a db in the Object Explorer or from Tools menu)
@@ -30,10 +30,10 @@ Talking about the tools:
 
 ## Azure Data Studio 
 (formerly known as SQL Operations Studio)
-  * It's the database, not the instance
+  * First difference: it's the database, not the instance
   * Built on the modern foundation of Microsoft's VS Code (most of the extensibility APIs are available)
   * Engineered with the data platform user in mind
-  * Open source (GitHub project)
+  * It's ans open source (GitHub project)
   * Cross-platform tool (platform independent)
   * Primarily development tool
   * Like SSMS, but for developers, less about management, more about code authorship
@@ -60,3 +60,8 @@ Talking about the tools:
   * SQL Object Explorer
   * SQLCMD
   * IntelliCode
+
+## Download tools
+[Download SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+
+[Download Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
