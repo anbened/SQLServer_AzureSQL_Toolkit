@@ -10,7 +10,7 @@ Talking about the tools:
 
 ### SQL Server Management Studio
 
-![SQL Server Management Studio](/images/ssms.jpg)
+![SQL Server Management Studio](./images/ssms.jpg)
 
   * Windows tool
   * For people who: 
