@@ -1,5 +1,6 @@
 # SQL Server / Azure SQL Database Toolkit
-# Notes from the field
+
+## Notes from the field
 
 Sometimes I receive questions about the difference between Azure Data Studio (ADS) and SQL Server Management Studio (SSMS). The purpose of this topic is to enlist some key points to think about some use cases for each tool.
 
@@ -7,7 +8,7 @@ Talking about the tools:
 - no replacement tool, but complementary tools
 - no reason to ignore a tool
 
-## SQL Server Management Studio
+### SQL Server Management Studio
   * Windows tool
   * For people who: 
     *   spend most of their time on database administration tasks, 
@@ -28,7 +29,7 @@ Talking about the tools:
     *   XEvent Management, 
     *   Always On
 
-## Azure Data Studio 
+### Azure Data Studio 
 (formerly known as SQL Operations Studio)
   * First difference: it's the database, not the instance
   * Built on the modern foundation of Microsoft's VS Code (most of the extensibility APIs are available)
@@ -56,7 +57,8 @@ Talking about the tools:
     *   Customizable dashboards, 
     *   Dark Mode
 
-## Visual Studio Code
+### Visual Studio Code
+
   * SQL Object Explorer
   * SQLCMD
   * IntelliCode
