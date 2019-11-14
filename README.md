@@ -33,6 +33,9 @@ Talking about the tools:
     *   Always On
 
 ### Azure Data Studio 
+
+![Azure Data Studio](Images/ADS.JPG)
+
 (formerly known as SQL Operations Studio)
   * First difference: it's the database, not the instance
   * Built on the modern foundation of Microsoft's VS Code (most of the extensibility APIs are available)
