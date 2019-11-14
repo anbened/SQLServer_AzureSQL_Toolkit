@@ -9,6 +9,9 @@ Talking about the tools:
 - no reason to ignore a tool
 
 ### SQL Server Management Studio
+
+![SQL Server Management Studio](/images/ssms.jpg)
+
   * Windows tool
   * For people who: 
     *   spend most of their time on database administration tasks, 
