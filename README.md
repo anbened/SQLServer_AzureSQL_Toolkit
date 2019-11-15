@@ -12,7 +12,7 @@ Talking about the tools:
 
 ![SQL Server Management Studio](Images/SSMS.JPG)
 
-  * Windows tool
+  * Windows-only tool
   * For people who: 
     *   spend most of their time on database administration tasks, 
     *   need high availability, 
@@ -37,16 +37,18 @@ Talking about the tools:
 ![Azure Data Studio](Images/ADS.JPG)
 
 (formerly known as SQL Operations Studio)
-  * First difference: it's the database, not the instance
+  * First difference: cross platform, for Windows/MacOS/Linux
   * Built on the modern foundation of Microsoft's VS Code (most of the extensibility APIs are available)
+  * Can be used to connect to on-prem and cloud-based data servers, including but not limited to:
+    * SQL Server 2008-2019
+    * Azure SQL
+    * SQL Server Big Data Clusters
   * Engineered with the data platform user in mind
-  * It's ans open source (GitHub project)
-  * Cross-platform tool (platform independent)
+  * Its code is open and hosted in a GitHub project
   * Primarily development tool
   * Like SSMS, but for developers, less about management, more about code authorship
   * For people who: 
     *   use Mac / Linux as daily workstation, 
-    *   don't need to tune queries, 
     *   need to source-control queries, 
     *   are connected to a SQL Server 2019 big data cluster, 
     *   can execute most administrative tasks via the integrated terminal using sqlcmd or Powershell
@@ -55,13 +57,13 @@ Talking about the tools:
   * SQL Notebooks (based on Jupyter notebooks) which offer an experience of "interactive documentation"
   * Ability to work in other languages, such as PowerShell
   * You can work with: 
-    *   Databases, Security, Server Objects
+    *   Databases, Security, Server Objects, SQL Server Agent, XEvent Profiler
   * Top Features: 
     *   Marketplace Extensions to get new custom features, 
     *   Source control integration, 
     *   Task Pane, 
     *   Customizable dashboards, 
-    *   Dark Mode
+    *   Multiple color themes, including dark mode
 
 ### Visual Studio Code
 
